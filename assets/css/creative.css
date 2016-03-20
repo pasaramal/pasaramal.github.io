@@ -474,3 +474,17 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+.site-footer {
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+.site-footer p, .site-footer li {
+    font-size: 12px;
+    margin-bottom: 0;
+}
+
+.site-footer h3 {
+    margin-top: 0;
+}
